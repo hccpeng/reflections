@@ -2,7 +2,7 @@ This MRD Template is provided by Harvard Business School (HBS-PM101)
 
 
 
-Alan Peng, Elsa Lau, Caroline Hsieh, author1@, author2@ ...
+Alan Peng, Elsa Lau, Caroline Hsieh, Hsin-I Chu, author2@ ...
 Date last updated: 2016-04-06
 
 #Product Description:
