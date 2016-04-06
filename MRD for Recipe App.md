@@ -2,8 +2,8 @@ This MRD Template is provided by Harvard Business School (HBS-PM101)
 
 
 
-Alan Peng, author1@, author2@ ...
-Date last updated: 2016-02-27
+Alan Peng, Elsa Lau, Caroline Hsieh, author1@, author2@ ...
+Date last updated: 2016-04-06
 
 #Product Description:
 A Recipe app that allows users to search and to add new recipes.
@@ -86,6 +86,7 @@ For new products that are being developed for existing organizations, is the pro
 #Team Members
 List everyone who will be working on the project, along with their expected role and contact info.
 Elsa Lau <chinbo@gmail.com>
+Caroline Hsieh <kyujyokei@gmail.com>
 
 #Go/No Go Recommendation
 
